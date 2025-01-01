@@ -1,6 +1,6 @@
 # Job-Search-AI-Agent
 
-Welcome to the **Job-Search-AI-Agent** repository! This project is a robust AI-powered agent designed to streamline your job search process. By leveraging machine learning and automation, this agent analyzes job descriptions and matches them with your skills, generating tailored recommendations to enhance your job applications.
+Welcome to the **Job-Search-AI-Agent** repository! This project is a robust AI-powered agent designed to streamline your job search process. By leveraging a multi-agent framework through CrewAI and its tools, this agentic system analyzes job descriptions and matches them with your skills, generating tailored resumes to enhance your job applications.
 
 ## Features
 - **Intelligent Matching**: Matches your resume with job postings for high compatibility.
@@ -13,7 +13,7 @@ The repository follows a well-organized directory structure:
 
 ```plaintext
 Job-Search-AI-Agent/
-│
+
 ├── notebooks/        # Jupyter notebooks for core development inlcuding all Agent code using crewai
 ├── data/             # Placeholder for datasets (not included in the repo)
 ├── requirements.txt  # Dependencies for the project
