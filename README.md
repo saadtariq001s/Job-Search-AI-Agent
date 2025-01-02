@@ -1,4 +1,4 @@
-# Multi Agent Crew to Automate Job Applications
+# Multi Agent Crew to Automate Job Applications!
 
 Welcome to the **Job-Search-AI-Agent** repository! This project is a robust AI-powered agent designed to streamline your job search process. By leveraging a multi-agent framework through CrewAI and its tools, this agentic system analyzes job descriptions and matches them with your skills, generating tailored resumes to enhance your job applications.
 
