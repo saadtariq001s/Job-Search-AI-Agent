@@ -8,6 +8,7 @@ Welcome to the **Job-Search-AI-Agent** repository! This project is a robust AI-p
 - **Automated Insights**: Provides actionable feedback on how to enhance your profile for specific roles.
 - **Convenient Interface**: Designed for ease of integration and use by developers.
 
+
 ## Repository Structure
 The repository follows a well-organized directory structure:
 
